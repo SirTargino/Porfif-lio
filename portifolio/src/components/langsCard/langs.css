@@ -1,0 +1,14 @@
+div{
+    border: 2px solid #196786;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 5px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
